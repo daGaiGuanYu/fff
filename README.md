@@ -27,7 +27,7 @@
 ## CockroachDB serverless
 CockroachDB 是一个新的关系型数据库（像 MySQL、PostgreSQL）  
 号称是地表最强数据库  
-以我的直觉（由于我很菜，所以只能凭直接判断）判断，值得使用一下，至少试用一下  
+以我的直觉（由于我很菜，所以只能凭直觉判断）判断，值得使用一下，至少试用一下  
 
 另外，官方提供了免费的服务器，有 github 账号就能用！  
 5GiB 存储空间，250M Request Units/month（250M 没看懂，是 250M 次查询的意思吗？）
