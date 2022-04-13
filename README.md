@@ -43,7 +43,7 @@ Serverless 的出现，旨在降低服务器的成本，但现在服务器是在
 但是服务器虽然便宜，还是要收费的啊！  
 不免费，就是**要花钱**的意思啊！  
 
-所以，Serverless 成了白嫖党的宠物  
+所以，Serverless 成了白嫖党的玩物  
 各大云计算厂商（阿里云、腾讯云）都有**免费的额度**  
 
 [阿里云fc](https://www.aliyun.com/product/fc/)、[腾讯云 scf](https://cloud.tencent.com/product/scf)
